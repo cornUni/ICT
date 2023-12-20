@@ -1,0 +1,81 @@
+UDP Port 20 is open	------------>	Unable to retrieve service information
+UDP Port 21 is open	------------>	Unable to retrieve service information
+UDP Port 22 is open	------------>	Unable to retrieve service information
+UDP Port 23 is open	------------>	Unable to retrieve service information
+UDP Port 24 is open	------------>	Unable to retrieve service information
+UDP Port 25 is open	------------>	Unable to retrieve service information
+UDP Port 26 is open	------------>	Unable to retrieve service information
+UDP Port 27 is open	------------>	Unable to retrieve service information
+UDP Port 28 is open	------------>	Unable to retrieve service information
+UDP Port 29 is open	------------>	Unable to retrieve service information
+UDP Port 30 is open	------------>	Unable to retrieve service information
+UDP Port 31 is open	------------>	Unable to retrieve service information
+UDP Port 32 is open	------------>	Unable to retrieve service information
+UDP Port 33 is open	------------>	Unable to retrieve service information
+UDP Port 34 is open	------------>	Unable to retrieve service information
+UDP Port 35 is open	------------>	Unable to retrieve service information
+UDP Port 36 is open	------------>	Unable to retrieve service information
+UDP Port 37 is open	------------>	time
+UDP Port 38 is open	------------>	Unable to retrieve service information
+UDP Port 39 is open	------------>	rlp
+UDP Port 40 is open	------------>	Unable to retrieve service information
+UDP Port 41 is open	------------>	Unable to retrieve service information
+UDP Port 42 is open	------------>	nameserver
+UDP Port 43 is open	------------>	Unable to retrieve service information
+UDP Port 44 is open	------------>	Unable to retrieve service information
+UDP Port 45 is open	------------>	Unable to retrieve service information
+UDP Port 46 is open	------------>	Unable to retrieve service information
+UDP Port 47 is open	------------>	Unable to retrieve service information
+UDP Port 48 is open	------------>	Unable to retrieve service information
+UDP Port 49 is open	------------>	Unable to retrieve service information
+UDP Port 50 is open	------------>	Unable to retrieve service information
+UDP Port 51 is open	------------>	Unable to retrieve service information
+UDP Port 52 is open	------------>	Unable to retrieve service information
+UDP Port 53 is open	------------>	domain
+UDP Port 54 is open	------------>	Unable to retrieve service information
+UDP Port 55 is open	------------>	Unable to retrieve service information
+UDP Port 56 is open	------------>	Unable to retrieve service information
+UDP Port 57 is open	------------>	Unable to retrieve service information
+UDP Port 58 is open	------------>	Unable to retrieve service information
+UDP Port 59 is open	------------>	Unable to retrieve service information
+UDP Port 60 is open	------------>	Unable to retrieve service information
+UDP Port 61 is open	------------>	Unable to retrieve service information
+UDP Port 62 is open	------------>	Unable to retrieve service information
+UDP Port 63 is open	------------>	Unable to retrieve service information
+UDP Port 64 is open	------------>	Unable to retrieve service information
+UDP Port 65 is open	------------>	Unable to retrieve service information
+UDP Port 66 is open	------------>	Unable to retrieve service information
+UDP Port 67 is open	------------>	bootps
+UDP Port 68 is open	------------>	bootpc
+UDP Port 69 is open	------------>	tftp
+UDP Port 70 is open	------------>	Unable to retrieve service information
+UDP Port 71 is open	------------>	Unable to retrieve service information
+UDP Port 72 is open	------------>	Unable to retrieve service information
+UDP Port 73 is open	------------>	Unable to retrieve service information
+UDP Port 74 is open	------------>	Unable to retrieve service information
+UDP Port 75 is open	------------>	Unable to retrieve service information
+UDP Port 76 is open	------------>	Unable to retrieve service information
+UDP Port 77 is open	------------>	Unable to retrieve service information
+UDP Port 78 is open	------------>	Unable to retrieve service information
+UDP Port 79 is open	------------>	Unable to retrieve service information
+UDP Port 80 is open	------------>	Unable to retrieve service information
+UDP Port 81 is open	------------>	hosts2-ns
+UDP Port 82 is open	------------>	Unable to retrieve service information
+UDP Port 83 is open	------------>	Unable to retrieve service information
+UDP Port 84 is open	------------>	Unable to retrieve service information
+UDP Port 85 is open	------------>	Unable to retrieve service information
+UDP Port 86 is open	------------>	Unable to retrieve service information
+UDP Port 87 is open	------------>	Unable to retrieve service information
+UDP Port 88 is open	------------>	kerberos
+UDP Port 89 is open	------------>	Unable to retrieve service information
+UDP Port 90 is open	------------>	Unable to retrieve service information
+UDP Port 91 is open	------------>	Unable to retrieve service information
+UDP Port 92 is open	------------>	Unable to retrieve service information
+UDP Port 93 is open	------------>	Unable to retrieve service information
+UDP Port 94 is open	------------>	Unable to retrieve service information
+UDP Port 95 is open	------------>	Unable to retrieve service information
+UDP Port 96 is open	------------>	Unable to retrieve service information
+UDP Port 97 is open	------------>	Unable to retrieve service information
+UDP Port 98 is open	------------>	Unable to retrieve service information
+UDP Port 99 is open	------------>	Unable to retrieve service information
+UDP Port 100 is open	------------>	Unable to retrieve service information
